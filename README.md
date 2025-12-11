@@ -1,2 +1,1 @@
-# mini-project-1
-mini project -fifa 21
+This project analyzes FIFA 21 player data using Power BI to understand player performance, ratings, value, and attributes. The dashboard helps compare players, explore their stats, and identify key insights using visuals, filters, and DAX calculations.
